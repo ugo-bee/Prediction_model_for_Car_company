@@ -6,4 +6,7 @@
 >Great Motors makes its profit by receiving a percentage of the selling price listed on the company platform. 
 >To ensure the car's selling price is the best for both the customer selling the vehicle and Great Motors.
 >I have created  a predictive model for determining the price  the company should sell a car based on the
->available data (Location, Maker, Model, Year, Colour, Amount (Million Naira), Type, Distance). The objective is to predict the selling price
+>available data (Location, Maker, Model, Year, Colour, Amount (Million Naira), Type, Distance).
+>the datasets used are Train.csv,Test.csv and the final results are contained in samplesubmission.csv
+>The objective is to predict the selling price
+
